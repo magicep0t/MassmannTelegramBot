@@ -1,0 +1,14 @@
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.csprojAssemblyReference.cache
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.AssemblyInfoInputs.cache
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.AssemblyInfo.cs
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot.deps.json
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot.runtimeconfig.json
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot.runtimeconfig.dev.json
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot.dll
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/MassmannTelegramBot.pdb
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.csproj.CopyComplete
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.dll
+/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/Debug/netcoreapp3.1/MassmannTelegramBot.pdb

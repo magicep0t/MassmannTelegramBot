@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/MassmannTelegramBot.csproj": {}
+  },
+  "projects": {
+    "/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/MassmannTelegramBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/MassmannTelegramBot.csproj",
+        "projectName": "MassmannTelegramBot",
+        "projectPath": "/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/MassmannTelegramBot.csproj",
+        "packagesPath": "/home/bbajtl/.nuget/packages/",
+        "outputPath": "/home/bbajtl/workspace/MassmannTelegram/MassmannTelegramBot/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/bbajtl/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[15.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
