@@ -42,6 +42,10 @@
             "Telegram.Bot": {
               "target": "Package",
               "version": "[15.3.0, )"
+            },
+            "googleapi": {
+              "target": "Package",
+              "version": "(, )"
             }
           },
           "imports": [
